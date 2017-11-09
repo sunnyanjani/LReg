@@ -28,6 +28,8 @@ diabetes_y_pred = regr.predict(diabetes_X_test)
 
 # The coefficients
 print('Coefficients: \n', regr.coef_)
+#The Intercept
+print('Intercept: \n', regr.intercept_)
 
 # Plot outputs
 plt.scatter(diabetes_X_test, diabetes_y_test,  color='black')
