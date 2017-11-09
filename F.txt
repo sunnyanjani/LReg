@@ -1,0 +1,1087 @@
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+Frank                                                        19-SEP-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Phil                                                         12-NOV-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Arnold                                                       01-APR-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Jack                                                         23-JUN-00
+Jack                                                         23-JUN-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+Justin                                                       09-FEB-00
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Justin                                                       09-FEB-00
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+Megan                                                        19-SEP-02
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Stuart                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Clarke                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Darwin                                                       22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Chelsea                                                      22-MAY-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Dan                                                          07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+Jimmy                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+James                                                        07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+
+EMPLOYEENAME                                                 DATEOFJOI
+------------------------------------------------------------ ---------
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+Joseph                                                       07-JUL-16
+
+190 rows selected.
+
+SQL> SELECT 1+NULL;
+SELECT 1+NULL
+            *
+ERROR at line 1:
+ORA-00923: FROM keyword not found where expected
+
+
+SQL> SELECT 1+NULL FROM DUAL;
+
+    1+NULL
+----------
+
+
+SQL> SELECT (1+NULL) FROM DUAL;
+
+  (1+NULL)
+----------
+
+
+SQL> SELECT (1*NULL) FROM DUAL;
+
+  (1*NULL)
+----------
+
+
+SQL> select EMPLOYEENAME ,DATEOFJOINING AS "DOJ" FROM EMPLOYEE E,EMPLOYEEPROJECTS EP WHERE EP.EMPLOYEENUMBER=E.EMPLOYEENUMBER AND DATEOFJOINING BETWEEN '01-JAN-2000' AND '01-DEC-2000';
+
+SQL> SPOOL A.TXT;
+SP2-0606: Cannot create SPOOL file "A.TXT"
+SQL> SPOOL A.TEXT;
+SP2-0606: Cannot create SPOOL file "A.TEXT"
+SQL> SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER),"YET TO
+ BE ASSIGNED" FROM EMPLOYEE;
+SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER),"YET TO BE A
+SSIGNED" FROM EMPLOYEE
+
+         *
+ERROR at line 1:
+ORA-00907: missing right parenthesis
+
+
+SQL> SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER)) AS "MA
+NAGER","YET TO BE ASSIGNED" FROM EMPLOYEE;
+SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER)) AS "MANAGER
+","YET TO BE ASSIGNED" FROM EMPLOYEE
+                                 *
+ERROR at line 1:
+ORA-00909: invalid number of arguments
+
+
+SQL> SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER),"YET TO
+ BE ASSIGNED") AS "MANAGER" FROM EMPLOYEE;
+SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER),"YET TO BE A
+SSIGNED") AS "MANAGER" FROM EMPLOYEE
+                                                                    *
+ERROR at line 1:
+ORA-00904: "YET TO BE ASSIGNED": invalid identifier
+
+
+SQL> SELECT EMPLOYEENAME,DESIGNATION, NVL(to_char(MANAGEREMPLOYEENUMBER),"YET TO
+ BE ASSIGNED") AS "MANAGER" FROM EMPLOYEE;
+SELECT EMPLOYEENAME,DESIGNATION, NVL(to_char(MANAGEREMPLOYEENUMBER),"YET TO BE A
+SSIGNED") AS "MANAGER" FROM EMPLOYEE
+                                                                    *
+ERROR at line 1:
+ORA-00904: "YET TO BE ASSIGNED": invalid identifier
+
+
+SQL> SELECT EMPLOYEENAME,DESIGNATION, NVL(TO_CHAR(MANAGEREMPLOYEENUMBER),'YET TO
+ BE ASSIGNED') AS "MANAGER" FROM EMPLOYEE;
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Cynthya                                                      CEO
+7001
+
+Mario                                                        MD
+7001
+
+Jacob                                                        MD
+7001
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Lucy                                                         MD
+7001
+
+Amy                                                          SM
+7002
+
+Frank                                                        SM
+7003
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Phil                                                         SM
+7004
+
+Arnold                                                       TL
+7005
+
+Jack                                                         TL
+7006
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Justin                                                       TL
+7007
+
+Megan                                                        TL
+7007
+
+Stuart                                                       SSE
+7008
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Clarke                                                       SSE
+7008
+
+Darwin                                                       SE
+7009
+
+Chelsea                                                      SSE
+7010
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Dan                                                          SE
+7009
+
+Jimmy                                                        SE
+7010
+
+James                                                        SE
+YET TO BE ASSIGNED
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+MANAGER
+----------------------------------------
+Joseph                                                       SE
+YET TO BE ASSIGNED
+
+
+19 rows selected.
+
+SQL> SELECT EMPLOYEENAME,DESIGNATION AS "JOB ROLE",SALARY FROM EMPLOYEE;
+
+EMPLOYEENAME                                                 JOB R     SALARY
+------------------------------------------------------------ ----- ----------
+Cynthya                                                      CEO       800000
+Mario                                                        MD        500000
+Jacob                                                        MD        400000
+Lucy                                                         MD        420000
+Amy                                                          SM        240000
+Frank                                                        SM        220000
+Phil                                                         SM        220000
+Arnold                                                       TL         80000
+Jack                                                         TL         88000
+Justin                                                       TL         86000
+Megan                                                        TL         87000
+
+EMPLOYEENAME                                                 JOB R     SALARY
+------------------------------------------------------------ ----- ----------
+Stuart                                                       SSE        35000
+Clarke                                                       SSE        32000
+Darwin                                                       SE         30000
+Chelsea                                                      SSE        38000
+Dan                                                          SE         30000
+Jimmy                                                        SE         32000
+James                                                        SE         35000
+Joseph                                                       SE         30000
+
+19 rows selected.
+
+SQL> SELECT EMPLOYEENAME,DESIGNATION,
+  2  DECODE(DESIGNATION,'CHIEF EXECUTIVE OFFICER','CEO','MANAGING DIRECTOR','MD'
+) AS "JOB ROLE" FROM EMPLOYEE;
+
+EMPLOYEENAME                                                 DESIG JOB
+------------------------------------------------------------ ----- ---
+Cynthya                                                      CEO
+Mario                                                        MD
+Jacob                                                        MD
+Lucy                                                         MD
+Amy                                                          SM
+Frank                                                        SM
+Phil                                                         SM
+Arnold                                                       TL
+Jack                                                         TL
+Justin                                                       TL
+Megan                                                        TL
+
+EMPLOYEENAME                                                 DESIG JOB
+------------------------------------------------------------ ----- ---
+Stuart                                                       SSE
+Clarke                                                       SSE
+Darwin                                                       SE
+Chelsea                                                      SSE
+Dan                                                          SE
+Jimmy                                                        SE
+James                                                        SE
+Joseph                                                       SE
+
+19 rows selected.
+
+SQL> DECODE(DESIGNATION,'CEO','CHIEF EXECUTIVE OFFICER','MD','MANAGING DIRECTOR'
+) AS "JOB ROLE" FROM EMPLOYEE;
+SP2-0734: unknown command beginning "DECODE(DES..." - rest of line ignored.
+SQL> SELECT EMPLOYEENAME,DESIGNATION,
+  2  DECODE(DESIGNATION,'CEO','CHIEF EXECUTIVE OFFICER','MD','MANAGING DIRECTOR'
+) AS "JOB ROLE" FROM EMPLOYEE;
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Cynthya                                                      CEO
+CHIEF EXECUTIVE OFFICER
+
+Mario                                                        MD
+MANAGING DIRECTOR
+
+Jacob                                                        MD
+MANAGING DIRECTOR
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Lucy                                                         MD
+MANAGING DIRECTOR
+
+Amy                                                          SM
+
+
+Frank                                                        SM
+
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Phil                                                         SM
+
+
+Arnold                                                       TL
+
+
+Jack                                                         TL
+
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Justin                                                       TL
+
+
+Megan                                                        TL
+
+
+Stuart                                                       SSE
+
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Clarke                                                       SSE
+
+
+Darwin                                                       SE
+
+
+Chelsea                                                      SSE
+
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Dan                                                          SE
+
+
+Jimmy                                                        SE
+
+
+James                                                        SE
+
+
+
+EMPLOYEENAME                                                 DESIG
+------------------------------------------------------------ -----
+JOB ROLE
+-----------------------
+Joseph                                                       SE
+
+
+
+19 rows selected.
+
+SQL>SELECT EMPLOYEENAME,DESIGNATION,
+  DECODE(DESIGNATION,'CEO','CHIEF EXECUTIVE OFFICER','MD','MANAGING DIRECTOR','SM','SENIOR MANAGER','TL','TEAM LEADER','SSE','SENIOR SOFTWARE ENGINEER','SE','SOFTWARE ENGINEER') AS "JOB ROLE" FROM EMPLOYEE;
+IT124
+ThreeDoor
+Samsung
+     22000
+
+
+ITEMCODE
+----------
+ITEMNAME
+--------------------------------------------------------------------------------
+
+MANUFACTURERNAME
+--------------------------------------------------------------------------------
+
+ UNITPRICE
+----------
+IT108
+TopLoad
+LG
+     25000
+
+
+ITEMCODE
+----------
+ITEMNAME
+--------------------------------------------------------------------------------
+
+MANUFACTURERNAME
+--------------------------------------------------------------------------------
+
+ UNITPRICE
+----------
+IT123
+LED50Inch
+LG
+     38000
+
+
+ITEMCODE
+----------
+ITEMNAME
+--------------------------------------------------------------------------------
+
+MANUFACTURERNAME
+--------------------------------------------------------------------------------
+
+ UNITPRICE
+----------
+IT121
+LED50Inch
+Onida
+     48000
+
+
+25 rows selected.
+
+SQL> SELECT CUTOMERID,COUNT(ORDERID) FROM ORDERMASTER GROUP BY CUSTOMERID;
+SELECT CUTOMERID,COUNT(ORDERID) FROM ORDERMASTER GROUP BY CUSTOMERID
+       *
+ERROR at line 1:
+ORA-00904: "CUTOMERID": invalid identifier
+
+
+SQL> SELECT CUSTOMERID,COUNT(ORDERID) FROM ORDERMASTER GROUP BY CUSTOMERID;
+
+CUSTOMERID COUNT(ORDERID)
+---------- --------------
+      1006              3
+      1001              1
+      1005              3
+
+SQL> SELECT CUSTOMERID,COUNT(*) FROM ORDERMASTER GROUP BY CUSTOMERID;
+
+CUSTOMERID   COUNT(*)
+---------- ----------
+      1006          3
+      1001          1
+      1005          3
+
+SQL> SELECT CUSTOMERID,COUNT(ORDERID) FROM ORDERMASTER GROUP BY CUSTOMERID;
+
+CUSTOMERID COUNT(ORDERID)
+---------- --------------
+      1006              3
+      1001              1
+      1005              3
+
+SQL> SELECT ITEMCATEGORY,AVG(UNITPRICE) FROM ITEM GROUP BY ITEMCATEGORY;
+
+ITEMCATEGORY         AVG(UNITPRICE)
+-------------------- --------------
+Stationery                      5.5
+Mobile                        10750
+Television                    27000
+WashingMachine                19500
+Refrigerator             18714.2857
+
+SQL> SELECT CUSTOMERID,COUNT(ORDERID) FROM ORDERMASTER GROUP BY CUSTOMERID HAVIN
+G COUNT(ORDERID)>1;
+
+CUSTOMERID COUNT(ORDERID)
+---------- --------------
+      1006              3
+      1005              3
+
+SQL> SELECT ITEMCATEGORY,MIN(UNITPRICE) FROM ITEM GROUP BY ITEMCATEGORY HAVING M
+IN(UNITPRICE)>10000;
+
+ITEMCATEGORY         MIN(UNITPRICE)
+-------------------- --------------
+Television                    15000
+WashingMachine                11000
+Refrigerator                  12000
+
+SQL> SELECT ITEMCATEGORY,COUNT(*) FROM ITEM WHERE ITEMCATEGORY IN ('Television',
+'Refrigerator') GROUP BY ITEMCATEGORY HAVING COUNT(*)>5 ORDER BY COUNT(*) DESC;
+
+
+ITEMCATEGORY           COUNT(*)
+-------------------- ----------
+Refrigerator                  7
+Television                    6
+
+SQL> SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY>AVG(SALARY);
+SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY>AVG(SALARY)
+                                                      *
+ERROR at line 1:
+ORA-00934: group function is not allowed here
+
+
+SQL> SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY>AVG(SALARY);
+SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY>AVG(SALARY)
+                                                      *
+ERROR at line 1:
+ORA-00934: group function is not allowed here
+
+
+SQL> SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY> (SELECT AVG(SALARY)
+FROM EMPLOYEE);
+
+EMPLOYEENAME                                                     SALARY
+------------------------------------------------------------ ----------
+Cynthya                                                          800000
+Mario                                                            500000
+Jacob                                                            400000
+Lucy                                                             420000
+Amy                                                              240000
+Frank                                                            220000
+Phil                                                             220000
+
+7 rows selected.
+
+SQL> SELECT AVG(SALARY) FROM EMPLOYEE;
+
+AVG(SALARY)
+-----------
+ 179105.263
+
+SQL> SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY> (SELECT AVG(SALARY)
+FROM EMPLOYEE);
+
+EMPLOYEENAME                                                     SALARY
+------------------------------------------------------------ ----------
+Cynthya                                                          800000
+Mario                                                            500000
+Jacob                                                            400000
+Lucy                                                             420000
+Amy                                                              240000
+Frank                                                            220000
+Phil                                                             220000
+
+7 rows selected.
+
+SQL> SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE WHERE SALARY= (SELECT MIN(SALARY)
+FROM EMPLOYEE);
+
+EMPLOYEENAME                                                     SALARY
+------------------------------------------------------------ ----------
+Darwin                                                            30000
+Dan                                                               30000
+Joseph                                                            30000
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUM
+BER FROM EOMPLOYEEPROJECTS WHERE PROJECTID=(SELECT PROJECTID FROM PROJECT WHERE
+PROJECTNAME='P1'));
+SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUMBER F
+ROM EOMPLOYEEPROJECTS WHERE PROJECTID=(SELECT PROJECTID FROM PROJECT WHERE PROJE
+CTNAME='P1'))
+
+    *
+ERROR at line 1:
+ORA-00942: table or view does not exist
+
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUM
+BER FROM EMPLOYEEPROJECTS WHERE PROJECTID=(SELECT PROJECTID FROM PROJECT WHERE P
+ROJECTNAME='P1'));
+
+no rows selected
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER IN (SELECT EMPLOYEEN
+UMBER FROM EMPLOYEEPROJECTS WHERE PROJECTID IN (SELECT PROJECTID FROM PROJECT WH
+ERE PROJECTNAME='P1'));
+
+no rows selected
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUM
+BER FROM EMPLOYEEPROJECTS WHERE PROJECTID = (SELECT PROJECTID FROM PROJECT WHERE
+ PROJECTNAME='P1'));
+
+no rows selected
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUM
+BER FROM EMPLOYEEPROJECTS WHERE PROJECTID = (SELECT PROJECTID FROM PROJECT WHERE
+ PROJECTNAME='p1'));
+
+no rows selected
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUM
+BER FROM EMPLOYEEPROJECTS WHERE PROJECTID ='P1');
+SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUMBER F
+ROM EMPLOYEEPROJECTS WHERE PROJECTID ='P1')
+                                                         *
+ERROR at line 1:
+ORA-01427: single-row subquery returns more than one row
+
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUM
+BER FROM EMPLOYEEPROJECTS WHERE PROJECTID ='P1');
+SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER =(SELECT EMPLOYEENUMBER F
+ROM EMPLOYEEPROJECTS WHERE PROJECTID ='P1')
+                                                         *
+ERROR at line 1:
+ORA-01427: single-row subquery returns more than one row
+
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER IN(SELECT EMPLOYEENU
+MBER FROM EMPLOYEEPROJECTS WHERE PROJECTID ='P1');
+
+EMPLOYEENAME
+------------------------------------------------------------
+Amy
+Frank
+Stuart
+
+SQL> SELECT PROJECTNAME FROM PEOJECTS WHERE PROJECTID IN(SELECT PROJECTID FROM E
+MPLOYEEPROJECTS WHERE END DATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEEN
+UMBER)>2);
+SELECT PROJECTNAME FROM PEOJECTS WHERE PROJECTID IN(SELECT PROJECTID FROM EMPLOY
+EEPROJECTS WHERE END DATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUMBER
+)>2)
+
+                     *
+ERROR at line 1:
+ORA-00920: invalid relational operator
+
+
+SQL> SELECT PROJECTNAME FROM PEOJECTS WHERE PROJECTID IN(SELECT PROJECTID FROM E
+MPLOYEEPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENU
+MBER)>2);
+SELECT PROJECTNAME FROM PEOJECTS WHERE PROJECTID IN(SELECT PROJECTID FROM EMPLOY
+EEPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUMBER)
+>2)
+                        *
+ERROR at line 1:
+ORA-00942: table or view does not exist
+
+
+SQL> SELECT PROJECTNAME FROM PEOJECT WHERE PROJECTID IN(SELECT PROJECTID FROM EM
+PLOYEEPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUM
+BER)>2);
+SELECT PROJECTNAME FROM PEOJECT WHERE PROJECTID IN(SELECT PROJECTID FROM EMPLOYE
+EPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUMBER)>
+2)
+                        *
+ERROR at line 1:
+ORA-00942: table or view does not exist
+
+
+SQL> SELECT PROJECTNAME FROM PREOJECT WHERE PROJECTID IN(SELECT PROJECTID FROM E
+MPLOYEEPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENU
+MBER)>2);
+SELECT PROJECTNAME FROM PREOJECT WHERE PROJECTID IN(SELECT PROJECTID FROM EMPLOY
+EEPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUMBER)
+>2)
+                        *
+ERROR at line 1:
+ORA-00942: table or view does not exist
+
+
+SQL> SELECT PROJECTNAME FROM PROJECT WHERE PROJECTID IN(SELECT PROJECTID FROM EM
+PLOYEEPROJECTS WHERE ENDDATE IS NULL GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUM
+BER)>2);
+
+PROJECTNAME
+--------------------------------------------------
+Resources
+Retail
+
+
+SQL> SELECT EMPLOYEENAME FROM EMPLOYEE WHERE EMPLOYEENUMBER IN (SELECT MANAGEREM
+PLOYEENUMBER FROM EMPLOYEE GROUP BY MANAGEREMPLOYEENUMBER HAVING COUNT (EMPLOYEE
+NUMBER)>3);
+
+EMPLOYEENAME
+------------------------------------------------------------
+Cynthya
+
+
+SQL> SELECT MAX(SALARY) FROM (SELECT SALARY FROM EMPLOYEE);
+
+MAX(SALARY)
+-----------
+     800000
+
+SQL> SELECT MAX(SALARY) FROM (SELECT SALARY FROM EMPLOYEE WHERE SALARY!=(SELECT
+MAX(SALARY) FROM EMPLOYEE));
+
+MAX(SALARY)
+-----------
+     500000
+
+SELECT PROJECTNAME FROM PROJECT WHERE PROJECTID NOT IN(SELECT PROJECTID FROM EMPLOYEEPROJECTS GROUP BY PROJECTID HAVING COUNT(EMPLOYEENUMBER)>0);
+
+SELECT EMPLOYEENAME,SALARY FROM EMPLOYEE e1 
+WHERE SALARY>(SELECT AVG(SALARY) FROM EMPLOYEE E2 WHERE e2.DEPARTMENTCODE =e1.DEPARTMENTCODE);
+
+
+SQL> SELECT DISTINCT(EMPLOYEENAME) FROM EMPLOYEE E1 WHERE E1.DATEOFBIRTH<(SELECT
+ E2.DATEOFBIRTH FROM EMPLOYEE E2 WHERE E1.MANAGEREMPLOYEENUMBER=E2.EMPLOYEENUMBE
+R);
+
+EMPLOYEENAME
+------------------------------------------------------------
+Phil
+Stuart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SQL> SELECT DISTINCT(EMPLOYEENAME) FROM EMPLOYEE E1 WHERE E1.DATEOFBIRTH<(SELECT
+ E2.DATEOFBIRTH FROM EMPLOYEE E2 WHERE E1.MANAGEREMPLOYEENUMBER=E2.EMPLOYEENUMBE
+R);
+
+EMPLOYEENAME
+------------------------------------------------------------
+Phil
+Stuart
+
+SQL> SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENNAME FROM EMPLOYEE,DEPARTMENT
+  2  ;
+SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENNAME FROM EMPLOYEE,DEPARTMENT
+                                   *
+ERROR at line 1:
+ORA-00904: "DEPARTMENNAME": invalid identifier
+
+
+SQL> SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENNAME FROM EMPLOYEE E,DEPARTMENT
+ D WHERE E.DEPARTMENTCODE=DE.DEPARTMENTCODE;
+SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENNAME FROM EMPLOYEE E,DEPARTMENT D WH
+ERE E.DEPARTMENTCODE=DE.DEPARTMENTCODE
+
+                     *
+ERROR at line 1:
+ORA-00904: "DE"."DEPARTMENTCODE": invalid identifier
+
+
+SQL> SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENNAME FROM EMPLOYEE E,DEPARTMENT
+ D WHERE E.DEPARTMENTCODE=D.DEPARTMENTCODE;
+SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENNAME FROM EMPLOYEE E,DEPARTMENT D WH
+ERE E.DEPARTMENTCODE=D.DEPARTMENTCODE
+                                   *
+ERROR at line 1:
+ORA-00904: "DEPARTMENNAME": invalid identifier
+
+
+SQL> SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENTNAME FROM EMPLOYEE E,DEPARTMEN
+T D WHERE E.DEPARTMENTCODE=D.DEPARTMENTCODE;
+SELECT EMPLOYEENAME,DEPARTMENTCODE,DEPARTMENTNAME FROM EMPLOYEE E,DEPARTMENT D W
+HERE E.DEPARTMENTCODE=D.DEPARTMENTCODE
+                    *
+ERROR at line 1:
+ORA-00918: column ambiguously defined
+
+
+SQL> SELECT E.EMPLOYEENAME,D.DEPARTMENTCODE,D.DEPARTMENTNAME FROM EMPLOYEE E,DEP
+ARTMENT D WHERE E.DEPARTMENTCODE=D.DEPARTMENTCODE;
+
+EMPLOYEENAME                                                 DEPARTMENT
+------------------------------------------------------------ ----------
+DEPARTMENTNAME
+--------------------------------------------------
+Mario                                                        JavaCap
+Java Capability
+
+Jacob                                                        .NETCap
+Dotnet Capability
+
+Lucy                                                         LKM
+Learning and Knowledge Management
+
+
+EMPLOYEENAME                                                 DEPARTMENT
+------------------------------------------------------------ ----------
+DEPARTMENTNAME
+--------------------------------------------------
+Amy                                                          JavaCap
+Java Capability
+
+Frank                                                        .NETCap
+Dotnet Capability
+
+Phil                                                         LKM
+Learning and Knowledge Management
+
+
+EMPLOYEENAME                                                 DEPARTMENT
+------------------------------------------------------------ ----------
+DEPARTMENTNAME
+--------------------------------------------------
+Arnold                                                       JavaCap
+Java Capability
+
+Jack                                                         .NETCap
+Dotnet Capability
+
+Justin                                                       LKM
+Learning and Knowledge Management
+
+
+EMPLOYEENAME                                                 DEPARTMENT
+------------------------------------------------------------ ----------
+DEPARTMENTNAME
+--------------------------------------------------
+Megan                                                        LKM
+Learning and Knowledge Management
+
+Stuart                                                       JavaCap
+Java Capability
+
+Clarke                                                       JavaCap
+Java Capability
+
+
+EMPLOYEENAME                                                 DEPARTMENT
+------------------------------------------------------------ ----------
+DEPARTMENTNAME
+--------------------------------------------------
+Darwin                                                       .NETCap
+Dotnet Capability
+
+Chelsea                                                      LKM
+Learning and Knowledge Management
+
+Dan                                                          .NETCap
+Dotnet Capability
+
+
+EMPLOYEENAME                                                 DEPARTMENT
+------------------------------------------------------------ ----------
+DEPARTMENTNAME
+--------------------------------------------------
+Jimmy                                                        LKM
+Learning and Knowledge Management
+
+James                                                        .NETCap
+Dotnet Capability
+
+Joseph                                                       .NETCap
+Dotnet Capability
+
+
+18 rows selected.
+
+SQL> SELECT E.EMPLOYEENAME,P.PROJECTNAME,P1.STARTDATE FROM EMPLOYEE E,PROJECT P,
+EMPLOYEEPROJECTS P1
+  2  WHERE P.PROJECTID=P1.PROJECTID AND P1.EMPLOYEENUMBER=E.EMPLOYEENUMBER AND P
+1.ENDDATE IS NULL;
+
+EMPLOYEENAME
+------------------------------------------------------------
+PROJECTNAME                                        STARTDATE
+-------------------------------------------------- ---------
+Amy
+Retail                                             01-JUL-14
+
+Frank
+Retail                                             01-JUN-16
+
+Phil
+Resources                                          11-MAY-15
+
+
+EMPLOYEENAME
+------------------------------------------------------------
+PROJECTNAME                                        STARTDATE
+-------------------------------------------------- ---------
+Darwin
+Resources                                          11-NOV-14
+
+Clarke
+Resources                                          28-FEB-15
+
+Dan
+Insurance                                          16-JUL-14
+
+
+EMPLOYEENAME
+------------------------------------------------------------
+PROJECTNAME                                        STARTDATE
+-------------------------------------------------- ---------
+Stuart
+Retail                                             01-MAR-15
+
+
+7 rows selected.
+
+
+SQL> SELECT E.EMPLOYEENAME,P.PROJECTID FROM EMPLOYEE E LEFT OUTER JOIN EMPLOYEEP
+ROJECTS P ON E.EMPLOYEENUMBER=P.EMPLOYEENUMBER WHERE ENDDATE IS NULL;
+
+EMPLOYEENAME                                                 PROJECTID
+------------------------------------------------------------ ----------
+Cynthya
+Mario
+Jacob
+Amy                                                          P1
+Frank                                                        P1
+Phil                                                         P3
+Arnold
+Jack
+Justin
+Megan
+Stuart                                                       P1
+
+EMPLOYEENAME                                                 PROJECTID
+------------------------------------------------------------ ----------
+Clarke                                                       P3
+Darwin                                                       P3
+Chelsea
+Dan                                                          P2
+Jimmy
+James
+Joseph
+
+18 rows selected.
+
+SQL>
